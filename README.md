@@ -11,15 +11,15 @@ The application integrates AI features such as:
 
 📸 Features
 
-🖼️ Image Generator
+🖼️ Image Generator:
 Generate AI images based on user prompts
 Simple UI with preview grid
 
-💬 Ask AI
+💬 Ask AI:
 Chat with AI using natural language
 Displays responses dynamically
 
-🍳 Recipe Generator
+🍳 Recipe Generator:
 Generate recipes based on ingredients
 Supports dietary restrictions
 
